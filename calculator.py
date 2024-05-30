@@ -1,6 +1,3 @@
-# Note: If your project/code is found copied, your internship will be terminated 
-# and you will be banned from further opportunities from us. Ensure your work is original.
-
 def add(a, b):
     
     return a + b
